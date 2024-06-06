@@ -9,9 +9,9 @@ To use this project:
     ```
     pip install -r requirements.txt
     ```
-4. Set the `OPENAI_API_KEY` (replace `-------API KEY--------` with your actual API key):
+4. Set the `openai_key` (replace `-------API KEY--------` with your actual API key):
     ```
-   OPENAI_API_KEY="-------API KEY--------"
+   openai_key="-------API KEY--------"
     ```
 5. The `main.py` file contains the Streamlit application.
 6. Run the script with the following command:
