@@ -1,10 +1,7 @@
-Here's the enhanced README with emojis and details about setting up the AssemblyAI and Pinecone API keys:
-
----
 
 # 📄 PDF Document Question Answering LLM System
 
-**This project is a Streamlit app** that uses LangChain and OpenAI to enable users to query and retrieve answers from PDF documents. It uses **Pinecone** for vector storage and **GPT-3.5-turbo** for intelligent answers.
+**This project is a Streamlit app** that uses LangChain and OpenAI to enable users to query and retrieve answers from PDF documents. It leverages **Pinecone** for vector storage and **GPT-3.5-turbo** for intelligent answers.
 
 ---
 
@@ -24,7 +21,7 @@ Follow these steps to set up and run the project:
 
 ### 1️⃣ Clone the Repository  
    ```bash
-   git clone https://github.com/ramasaimehar/PDF-document-question-answering-LLM-System.git
+   git clone https://github.com/ramasaimehare/PDF-document-question-answering-LLM-System.git
    cd PDF-document-question-answering-LLM-System
    ```
 
@@ -69,14 +66,8 @@ Follow these steps to set up and run the project:
 
 ---
 
-## 🖼️ App Interface  
-
-- **Sidebar**: Upload PDFs and configure parameters.  
-- **Main Section**: Input your query and view the results, including extracted context and generated answers.  
-
----
-
 ## 🔗 Useful Links  
 - [OpenAI Signup](https://platform.openai.com/signup)  
 - [Pinecone Signup](https://www.pinecone.io/)  
 
+---
